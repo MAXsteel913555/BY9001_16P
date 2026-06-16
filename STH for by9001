@@ -1,16 +1,16 @@
-busy     u       dm
+busy     u           dm
 rx                   dp
 tx                   gnd
-dacr              io1
-dacl               io2
-spk1              io3
-spk2              io4
-vcc                 io5
+dacr                 io1
+dacl                 io2
+spk1                 io3
+spk2                 io4
+vcc                  io5
 
 
-
+uart
 a9   tx
-a10 rx
+a10  rx
 
 
 
